@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 
+<video controls width="250">
+  <source src="https://github.com/davidtmasin/agent_qa/blob/main/oneqway%20existe.mp4" type="video/mp4">
+</video>
+
 **Bem-vindo(a) ao OneQway\!** Este é um chatbot inteligente, construído com o poder de agentes de inteligência artificial, dedicado a fornecer suporte abrangente para profissionais de Qualidade de Software (QA). Seja você um iniciante buscando os fundamentos ou um veterano procurando aprofundar seus conhecimentos, o OneQway está aqui para ajudar.
 
 ## 🎯 Propósito
