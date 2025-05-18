@@ -35,11 +35,9 @@ Com o OneQway, você pode:
 
 ## 🚀 Como Utilizar
 
-[Aqui você pode adicionar instruções claras sobre como interagir com o chatbot. Por exemplo:]
-
 1.  **Clone o repositório:**
     ```bash
-    git clone https://[link-do-seu-repositorio]
+    git clone https://github.com/davidtmasin/agent_qa
     ```
 2.  **Instale as dependências:**
     ```bash
@@ -51,14 +49,16 @@ Com o OneQway, você pode:
     ```
 4.  **Interaja com o chatbot:** Siga as instruções no terminal para começar a fazer perguntas e gerar documentos.
 
-[Se houver alguma configuração adicional, como chaves de API para os agentes de IA, explique aqui também.]
+5. **Gerar chave API:** Acesse o [Google Studio AI](https://aistudio.google.com/) para obter sua chave e utilizá-la no projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
-  * [Liste as principais tecnologias e bibliotecas que você utilizou, por exemplo:]
-      * Python
-      * [Nome da biblioteca de agentes de IA]
-      * [Outras bibliotecas relevantes]
+   * Python
+   * Google Colab
+   * Framework Google ADK
+   * LIBs do Python: os, textwrap, requests, warning
+   * LIBs do Google: google.colab.userdata, google.adk.agents, google.adk.runners, google.adk.sessions, google.adk.tools
+   * Ferramenta especial do Google Colab: IPython.display
 
 ## 🤝 Contribuições
 
