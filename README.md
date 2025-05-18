@@ -74,6 +74,9 @@ Contribuições são sempre bem-vindas\! Se você tem ideias para melhorar o One
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais detalhes.
 
-## 📧 Contato
+## 📧 Encontre-me na Web
 
-[Adicione seu nome e/ou informações de contato, como e-mail ou perfil do GitHub.]
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidteixeirademasin/)
+- ✉️ [Email](mailto:davidteixeira.info@gmail.com)
+- 📚 [Curriculum](https://github.com/davidtmasin/davidtmasin/blob/main/curriculum.md)
+
